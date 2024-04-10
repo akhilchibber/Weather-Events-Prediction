@@ -1,4 +1,4 @@
-# Deep Learning based Weather Speed Prediction
+# Deep Learning based Wind Speed Prediction
 <p align="center">
   <img src="https://github.com/akhilchibber/Wind-Speed-Prediction/blob/main/Windmill.gif?raw=true" alt="earthml Logo">
 </p>
